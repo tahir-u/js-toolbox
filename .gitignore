@@ -1,0 +1,12 @@
+# build specific
+node_modules
+build
+dist
+*.log
+
+# editor specific
+.idea
+.vscode
+
+# directory specific
+.DS_Store
