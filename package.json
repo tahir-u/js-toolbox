@@ -1,0 +1,27 @@
+{
+  "name": "js-toolbox",
+  "version": "0.1.0",
+  "description": "A collection of JavaScript functionality, class structures, and other useful snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahir-u/js-toolbox.git"
+  },
+  "keywords": [
+    "JS",
+    "utils",
+    "classes"
+  ],
+  "author": "tahir-u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tahir-u/js-toolbox/issues"
+  },
+  "homepage": "https://github.com/tahir-u/js-toolbox#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
