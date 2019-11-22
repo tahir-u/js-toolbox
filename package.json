@@ -4,7 +4,8 @@
   "description": "A collection of JavaScript functionality, class structures, and other useful snippets",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
